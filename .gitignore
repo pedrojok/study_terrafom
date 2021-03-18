@@ -1,8 +1,8 @@
-challenge1/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
-challenge2/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.32.0_x5
-dynamic_blocks/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
-ec2/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
-eip/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
-first-resource/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
-security_group/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
-variables/.terraform/plugins/linux_amd64/terraform-provider-aws_v3.31.0_x5
+challenge1/.terraform/plugins/linux_amd64/*
+challenge2/.terraform/plugins/linux_amd64/*
+dynamic_blocks/.terraform/plugins/linux_amd64/*
+ec2/.terraform/plugins/linux_amd64/*
+eip/.terraform/plugins/linux_amd64/*
+first-resource/.terraform/plugins/linux_amd64/*
+security_group/.terraform/plugins/linux_amd64/*
+variables/.terraform/plugins/linux_amd64/*
