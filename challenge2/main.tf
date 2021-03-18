@@ -88,6 +88,6 @@ output "Private_IP_DB_Server" {
 }  
 
 output "Public_IP_WebServer" {
-    value = aws_instance.WebServer.public_ip
+    value = aws_eip.elasticip.public_ip
 }
 
